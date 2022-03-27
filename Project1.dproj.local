@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2022/03/27 11:30:48.703,=C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/03/27 11:31:17.320,C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Curso Delphi_Alura\Unit1.dfm=C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/03/27 11:31:17.320,C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Curso Delphi_Alura\Unit1.pas=C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/03/27 11:35:30.038,C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Curso Delphi_Alura\Project1.dproj=C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2022/03/27 11:30:48.000.703,=C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/27 11:31:17.000.320,C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Curso Delphi_Alura\Unit1.dfm=C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/27 11:31:17.000.320,C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Curso Delphi_Alura\Unit1.pas=C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/27 11:35:30.000.038,C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Curso Delphi_Alura\Project1.dproj=C:\Users\hajim\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
